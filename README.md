@@ -29,7 +29,7 @@ Time to interactive 7.2
 
 Mamomto 
 
-Siteground
+Siteground (not all caching on, and no cloudflare)
 
 28.11.20 Desktop: 37
 Performance
